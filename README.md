@@ -120,6 +120,10 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - <a href=https://github.com/Alifo-Eyram-Kofi/Car-Sales-Nigeria/blob/main/horsepower.png>Dashboard</a>
 
 
+<img width="800" height="480" alt="a43af4682adacd44ba51d01e0c872016" src="https://github.com/user-attachments/assets/a6cb3e27-4cab-4201-9992-c195b2d3b4de" />
+
+
+
 
 
 
