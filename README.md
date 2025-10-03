@@ -1,7 +1,7 @@
 # Nigerian Car Sales Analysis
 
 ## Table of Contents
-1. [Introduction](#introdution)  
+1. [Introduction](#introduction)  
 2. [Data Structure](#data-structure)  
 3. [Data Source](#data-source)  
 4. [Data Extraction Methodology](#data-extraction-methodology)  
@@ -93,10 +93,10 @@ The dataset was provided in CSV format. It was imported and integrated into Micr
 
 ---
 
-## Dashboard & Visualization
-![Dashboard Screenshot](docs/dashboard.png)  
+## Dashboard & Visualization  
 
-*(Replace `docs/dashboard.png` with the correct relative path to your screenshot image.)*
+<img width="1681" height="926" alt="Screenshot (34)q" src="https://github.com/user-attachments/assets/fc54a07c-6461-43d4-86ed-67367724ee5d" />
+
 
 ---
 
